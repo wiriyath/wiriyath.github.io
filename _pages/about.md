@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 Wiriya Thongsomboon, PhD\
-Lecturer\
-\
-Department of Chemistry\
+Lecturer at Department of Chemistry\
 Faculty of Science\
 Mahasarakham University\
 Thailand\
@@ -22,7 +20,7 @@ wiriya.t@msu.ac.th
 มหาวิทยาลัยมหาสารคาม\
 41/20 ต.ขามเรียง อ.กันทรวิชัย \
 จ.มหาสารคาม 44150\
-wiriya.t@msu.ac.th\
+wiriya.t@msu.ac.th \
 
 A data-driven personal website
 ======
