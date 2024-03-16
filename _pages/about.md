@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Wiriya Thongsomboon, PhD
-Lecturer
-
-Department of Chemistry
-Faculty of Science
-Mahasarakham University
-Thailand
+Wiriya Thongsomboon, PhD\
+Lecturer\
+\
+Department of Chemistry\
+Faculty of Science\
+Mahasarakham University\
+Thailand\
 wiriya.t@msu.ac.th
 
-ดร.วิริยา ทองสมบูรณ์
-ภาควิชาเคมี คณะวิทยาศาสตร์
-มหาวิทยาลัยมหาสารคาม
-41/20 ต.ขามเรียง อ.กันทรวิชัย 
-จ.มหาสารคาม 44150
-wiriya.t@msu.ac.th
+ดร.วิริยา ทองสมบูรณ์\
+ภาควิชาเคมี คณะวิทยาศาสตร์\
+มหาวิทยาลัยมหาสารคาม\
+41/20 ต.ขามเรียง อ.กันทรวิชัย \
+จ.มหาสารคาม 44150\
+wiriya.t@msu.ac.th\
 
 A data-driven personal website
 ======
