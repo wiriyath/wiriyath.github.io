@@ -1,6 +1,6 @@
-
+---
 permalink: /
-title: "Contact"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,6 +30,6 @@ I am a lecturer and researcher in the Department of Chemistry at the Faculty of 
 
 Research Interest
 ======
-bioeconomy, bio-based products, and environmental-friendly materials, sustainable food and agricultural systems, chemical processes in environments for soil and water remediation
+Bioeconomy, Bio-based products, Environmental-friendly materials, Sustainable food and agricultural systems, Chemical processes in environments for soil and water remediation
 
 
