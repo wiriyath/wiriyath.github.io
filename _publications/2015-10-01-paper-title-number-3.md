@@ -3,7 +3,7 @@ title: "Influence of the Amyloid Dye Congo Red on Curli, Cellulose, and the Extr
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt:
-date: 2016
+date: 2016-08-31
 venue: 'Analytical and Bioanalytical Chemistry'
 paperurl: 'https://link.springer.com/article/10.1007/s00216-016-9868-2'
 citation: 'Reichhardt C, McCrate O, Zhou X, Lee J, Thongsomboon W, and Cegelski L. “Influence of the Amyloid Dye Congo Red on Curli, Cellulose, and the Extracellular Matrix in E. coli during Growth and Matrix Purification.” Analytical and Bioanalytical Chemistry. (2016), 408(27), 7709–7717. (doi: 10.1007/s00216-016-9868-2)'
