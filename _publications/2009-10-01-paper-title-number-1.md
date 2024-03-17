@@ -1,7 +1,7 @@
 ---
 title: "Thermally Induced Nanoimprinting of Biodegradable Polycarbonates Using Dynamic Covalent Cross-Links"
 collection: publications
-permalink: doi: 10.1021/mz300628s
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 
 date: 2013
 venue: 'ACS Macro Lett.'
