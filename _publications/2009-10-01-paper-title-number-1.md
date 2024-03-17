@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Thermally Induced Nanoimprinting of Biodegradable Polycarbonates Using Dynamic Covalent Cross-Links"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: doi: 10.1021/mz300628s
+excerpt: 
+date: 2013
+venue: 'ACS Macro Lett.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Thongsomboon W,  Sherwood M, Arellano N, Hedrick J, Nelson A. “Thermally Induced Nanoimprinting of Biodegradable Polycarbonates Using Dynamic Covalent Cross-Links.” ACS Macro Lett.( 2013), 2, 19−22.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
