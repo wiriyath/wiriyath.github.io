@@ -63,18 +63,18 @@ Teaching
   
 Service and leadership
 ======
-** Outreach** (2022) \
+**Outreach** (2022) \
 Faculty of Science, Mahasarakham University \
 	June 2022	10th grade students, Pathumrat Pittayakom school \
 			Laboratory module: Chemistry reactions \
 	March 2022	11th grade students, Pathumrat Pittayakom school \
 			Laboratory module: Reaction rates 
   
-** Group member in the Online Sciathon** (June 2020)\
+**Group member in the Online Sciathon** (June 2020)\
 Online Sciathon 2020, the Lindau Nobel Laureate Meetings\
 •	worked in a small team with five other scientists from different countries in a 48-hour global competition hosted by the Lindau Nobel Laureate Meetings, and proposed an online platform for interdisciplinary cooperation on global needs
 
-** President** (2017-2018)\
+**President** (2017-2018)\
 Stanford Thai Student Association, Stanford University\
 •	Served as the spokesperson of Stanford Thai students interacting with other student organizations, university officials, Thai community in San Francisco Bay area, and Stanford Thai Alumni; facilitated networking events with working professionals and executives from Thailand, organized cultural and academic events to promote Thai cultures to Stanford community 
 
@@ -84,13 +84,13 @@ Stanford Thai Student Association, Stanford University\
 32nd Annual Johnson Symposium, Stanford University
 •	Student Host for Speaker: escorted one of the five invited speakers, served as the guide throughout the Symposium, and assisted the speaker before and during the talk
 
-** Chemistry outreach visit** (2017)\
+**Chemistry outreach visit** (2017)\
 November - Castro Valley high school, CA \
 •	Taught a periodicity with Alkaline and Alkaline Earth metals laboratory where 9th grade students learned the concept of reactivity of Alkaline and Alkaline Earth metals through their reactions with water or vinegar solution. \
 May - East Palo Alto Preparatory College, CA \
 •	Taught an acid and base laboratory where the 10th grade students explored the concept of pH and generated CO2 from acid and base reactions
 
-** Outreach Volunteer** (August 2017)\
+**Outreach Volunteer** (August 2017)\
 GRAMS (Graduate Researchers, Active Minds, and Science)\
 •	Shared research presentation in a fun way with senior citizens at the Terrace in Los Altos, CA
 
