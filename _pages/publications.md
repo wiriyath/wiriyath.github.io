@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Thongsomboon W, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. (2023). "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry, 1-10.
+
 Thongsomboon W, Bunyatratchata A, Vongkampang T, Nammatra R, Prakitchaiwattana C, and Siriamornpun S. Dynamic changes in Thai-style fermented fish: Low-salt, short fermentation with autochthonous starter culture (2023): LWT, 188, 115427.
 
 Thongsomboon W, Baimark Y, and Srihanam P. "Valorization of Cellulose-Based Materials from Agricultural Waste: Comparison between Sugarcane Bagasse and Rice Straw." Polymers 15.15 (2023): 3190. (doi.org/10.3390/polym15153190)
