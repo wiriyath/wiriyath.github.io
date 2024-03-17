@@ -55,11 +55,11 @@ Catalyst-Free crosslinking of biodegradable polycarbonates; thermally induced-Di
 
 Publications
 ======
-  See [publications](https://wiriyath.github.io/publications/)
+  See [Publications](https://wiriyath.github.io/publications/)
   
 Teaching
 ======
-  See [teaching](https://wiriyath.github.io/teaching/)
+  See [Teaching](https://wiriyath.github.io/teaching/)
   
 Service and leadership
 ======
