@@ -16,7 +16,7 @@ Education
 **M.S.** in Chemistry from Stanford University, USA \
 **B.S.** in Chemistry (General Honors) from University of Chicago, USA 
 
-HONORS AND AWARDS 
+Honors and Awards
 ======
 2023  PhD Dissertation Award from National Research Council, Thailand \
 2022	Selected as a representative from Thailand to attend the 71st Lindau Nobel Laureate Meeting, Germany \
