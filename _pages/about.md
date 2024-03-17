@@ -37,6 +37,6 @@ Website: https://wiriyath.github.io
 มหาวิทยาลัยมหาสารคาม\
 41/20 ต.ขามเรียง อ.กันทรวิชัย \
 จ.มหาสารคาม 44150\
-Email: wiriya.t@msu.ac.th
+Email: wiriya.t@msu.ac.th \
 Website: https://wiriyath.github.io
 
