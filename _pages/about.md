@@ -1,4 +1,4 @@
-![image](https://github.com/wiriyath/wiriyath.github.io/assets/107130477/d13c3246-5803-4344-9d0e-48b8f5547c0a)---
+
 permalink: /
 title: "Contact"
 excerpt: "About me"
