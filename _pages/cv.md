@@ -27,8 +27,8 @@ HONORS AND AWARDS
 2017	CELL Poster Award 2017-2nd Place ACS Division of cellulose and Renewable Material at 253rd American Chemical Society National Meeting \
 2017    Elected as the president of Thai Student Association, Stanford University \
 2009-2013 	Dean’s List, University of Chicago \		  	 
-2012	Elected as a member of Phi Beta Kappa honors society \	
-2012	Jeff Metcalf Fellowship for summer research at IBM Almaden Research Center \	
+2012	Elected as a member of Phi Beta Kappa honors society \
+2012	Jeff Metcalf Fellowship for summer research at IBM Almaden Research Center \
 
 Research Experiences
 ======
