@@ -14,7 +14,7 @@ Education
 *Ph.D. in Chemistry from Stanford University, USA \
 	Dissertation: “Phosphoethanolamine Cellulose: Discovery, Biosynthesis, and Importance in E. coli Biofilms” \
 *M.S. in Chemistry from Stanford University, USA \
-*B.S. in Chemistry (General Honors) from University of Chicago, USA \
+*B.S. in Chemistry (General Honors) from University of Chicago, USA 
 
 HONORS AND AWARDS 
 ======
