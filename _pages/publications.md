@@ -1,9 +1,16 @@
----
+![image](https://github.com/wiriyath/wiriyath.github.io/assets/107130477/4b37ee6b-0073-45d2-8f6c-a08d62df70f0)---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Thongsomboon W, Bunyatratchata A, Vongkampang T, Nammatra R, Prakitchaiwattana C, and Siriamornpun S. Dynamic changes in Thai-style fermented fish: Low-salt, short fermentation with autochthonous starter culture (2023): LWT, 188, 115427.
+
+Thongsomboon W, Baimark Y, and Srihanam P. "Valorization of Cellulose-Based Materials from Agricultural Waste: Comparison between Sugarcane Bagasse and Rice Straw." Polymers 15.15 (2023): 3190. (doi.org/10.3390/polym15153190)
+
+Thongsomboon W, Srihanam P, and Baimark Y. "Preparation of flexible poly (l-lactide)-b-poly (ethylene glycol)-b-poly (l-lactide)/talcum/thermoplastic starch ternary composites for use as heat-resistant and single-use bioplastics." International Journal of Biological Macromolecules (2023): 123172. (doi:10.1016/j.ijbiomac.2023.123172)
+
+Srihanam P, Thongsomboon W, and Baimark Y. "Phase Morphology, Mechanical, and Thermal Properties of Calcium Carbonate-Reinforced Poly (L-lactide)-b-poly (ethylene glycol)-b-poly (L-lactide) Bioplastics." Polymers 15.2 (2023): 301. (doi: 10.3390/polym15020301)
 
 Park Y*, Solhtalab M*, Thongsomboon W*, and Aristilde L. "Strategies of organic phosphorus recycling by soil bacteria: acquisition, metabolism, and regulation." Environmental Microbiology Reports (2022). (doi: 10.1111/1758-2229.13040) (*co-first authors)
 
