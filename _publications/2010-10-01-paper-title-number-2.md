@@ -2,7 +2,7 @@
 title: "Cyclic-di-GMP Regulates Motile to Sessile Transition by Modulating MshA Pili Biogenesis and Near-Surface Motility Behavior in Vibrio cholerae"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 
+excerpt: 'This paper is about'
 date: 2015-10-27
 venue: 'PLoS Pathogens'
 paperurl: 'https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005068'
