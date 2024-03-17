@@ -1,4 +1,4 @@
-![image](https://github.com/wiriyath/wiriyath.github.io/assets/107130477/4b37ee6b-0073-45d2-8f6c-a08d62df70f0)---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
