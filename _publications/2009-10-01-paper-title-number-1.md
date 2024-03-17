@@ -10,7 +10,7 @@ citation: 'Thongsomboon W,  Sherwood M, Arellano N, Hedrick J, Nelson A. “Ther
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](doi: 10.1021/mz300628s)
+[Download paper here](doi:10.1021/mz300628s)
 
 Recommended citation: Thongsomboon W,  Sherwood M, Arellano N, Hedrick J, Nelson A. “Thermally Induced Nanoimprinting of Biodegradable Polycarbonates Using Dynamic Covalent Cross-Links.” ACS Macro Lett.( 2013), 2, 19−22. 
 
