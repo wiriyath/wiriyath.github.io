@@ -63,12 +63,14 @@ Teaching
   
 Service and leadership
 ======
-**Outreach** (2022) \
+
+**Outreach** (2022-present) \
 Faculty of Science, Mahasarakham University \
-	June 2022	10th grade students, Pathumrat Pittayakom school \
-			Laboratory module: Chemistry reactions \
-	March 2022	11th grade students, Pathumrat Pittayakom school \
-			Laboratory module: Reaction rates 
+Jan 2024	11th grade students, Buakao school - lab: colligative properties
+July 2023	Science camp for students from local high schools\
+January 2023	8th grade students, Pratai school - lab module: Chemistry reactions \
+June 2022	10th grade students, Pathumrat Pittayakom school - lab module: Chemistry reactions \
+March 2022	11th grade students, Pathumrat Pittayakom school - lab module: Reaction rates 
   
 **Group member in the Online Sciathon** (June 2020)\
 Online Sciathon 2020, the Lindau Nobel Laureate Meetings\
