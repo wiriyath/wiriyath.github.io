@@ -68,7 +68,7 @@ Faculty of Science, Mahasarakham University \
 	June 2022	10th grade students, Pathumrat Pittayakom school \
 			Laboratory module: Chemistry reactions \
 	March 2022	11th grade students, Pathumrat Pittayakom school \
-			Laboratory module: Reaction rates \
+			Laboratory module: Reaction rates 
   
 * Group member in the Online Sciathon (June 2020)\
 Online Sciathon 2020, the Lindau Nobel Laureate Meetings\
