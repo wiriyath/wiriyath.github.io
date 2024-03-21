@@ -14,7 +14,7 @@ author_profile: true
 
 Srihanam P, **Thongsomboon W**, and Baimark Y. "Phase Morphology, Mechanical, and Thermal Properties of Calcium Carbonate-Reinforced Poly (L-lactide)-b-poly (ethylene glycol)-b-poly (L-lactide) Bioplastics." Polymers 15.2 (2023): 301. ([doi:10.3390/polym15020301](https://www.mdpi.com/2073-4360/15/2/301))
 
-Park Y<sup>1</sup>, Solhtalab M<sup>1</sup>, **Thongsomboon W <sup>1</sup> **, and Aristilde L. "Strategies of organic phosphorus recycling by soil bacteria: acquisition, metabolism, and regulation." Environmental Microbiology Reports (2022). (<sup>1</sup>co-first authors)([doi:10.1111/1758-2229.13040](https://onlinelibrary.wiley.com/doi/abs/10.1002/bip.23395)) 
+Park Y<sup>1</sup>, Solhtalab M<sup>1</sup>, **Thongsomboon W**<sup>1</sup>, and Aristilde L. "Strategies of organic phosphorus recycling by soil bacteria: acquisition, metabolism, and regulation." Environmental Microbiology Reports (2022). (<sup>1</sup>co-first authors)([doi:10.1111/1758-2229.13040](https://onlinelibrary.wiley.com/doi/abs/10.1002/bip.23395)) 
 
 Jeffries J, **Thongsomboon W**, Visser JA, Enriquez K, Yager D, and Cegelski L, “Balancing Biopolymers: Variations in Curli and Phosphoethanolamine Cellulose Production Reveal Differential Contributions to Escherichia coli Biofilm Architecture and Assembly Principles” – Biopolymers. (2021), 112(1), e23395.(doi:10.1002/bip.23395)
 
