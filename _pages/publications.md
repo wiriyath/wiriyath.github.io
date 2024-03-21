@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2023), 1-10. [doi.org/10.1007/s10800-023-02023-6](doi.org/10.1007/s10800-023-02023-6)
+**Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2023), 1-10. ([doi.org/10.1007/s10800-023-02023-6](https://link.springer.com/article/10.1007/s10800-023-02023-6))
 
-**Thongsomboon W**, Bunyatratchata A, Vongkampang T, Nammatra R, Prakitchaiwattana C, and Siriamornpun S. "Dynamic changes in Thai-style fermented fish: Low-salt, short fermentation with autochthonous starter culture." LWT (2023), 188, 115427. [doi.org/10.1016/j.lwt.2023.115427](doi.org/10.1016/j.lwt.2023.115427)
+**Thongsomboon W**, Bunyatratchata A, Vongkampang T, Nammatra R, Prakitchaiwattana C, and Siriamornpun S. "Dynamic changes in Thai-style fermented fish: Low-salt, short fermentation with autochthonous starter culture." LWT (2023), 188, 115427. ([doi.org/10.1016/j.lwt.2023.115427](https://www.sciencedirect.com/science/article/pii/S002364382301006X?via%3Dihub))
 
 **Thongsomboon W**, Baimark Y, and Srihanam P. "Valorization of Cellulose-Based Materials from Agricultural Waste: Comparison between Sugarcane Bagasse and Rice Straw." Polymers 15.15 (2023), 3190. [doi.org/10.3390/polym15153190](doi.org/10.3390/polym15153190)
 
