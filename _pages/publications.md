@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2023), 1-10. (doi.org/10.1007/s10800-023-02023-6)
+**Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2023), 1-10. [doi.org/10.1007/s10800-023-02023-6](doi.org/10.1007/s10800-023-02023-6)
 
 **Thongsomboon W**, Bunyatratchata A, Vongkampang T, Nammatra R, Prakitchaiwattana C, and Siriamornpun S. "Dynamic changes in Thai-style fermented fish: Low-salt, short fermentation with autochthonous starter culture." LWT (2023), 188, 115427. (doi.org/10.1016/j.lwt.2023.115427)
 
