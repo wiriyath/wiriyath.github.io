@@ -30,7 +30,7 @@ Hollenbeck EC, Antonoplis A, Chai C, **Thongsomboon W**, Fuller GG, and Cegelski
 
 Reichhardt C, McCrate O, Zhou X, Lee J, **Thongsomboon W**, and Cegelski L. “Influence of the Amyloid Dye Congo Red on Curli, Cellulose, and the Extracellular Matrix in E. coli during Growth and Matrix Purification.” Analytical and Bioanalytical Chemistry. (2016), 408(27), 7709–7717. ([doi:10.1007/s00216-016-9868-2](https://link.springer.com/article/10.1007/s00216-016-9868-2))
 
-Jones C, Utada A, Davis KR, **Thongsomboon W**, Sanchez DZ, Banakar V, Cegelski L, Wong GCL, Yildiz FH. “Cyclic-di-GMP Regulates Motile to Sessile Transition by Modulating MshA Pili Biogenesis and Near-Surface Motility Behavior in Vibrio cholerae.” PLoS Pathogens (2015), 11(10), 1–27. [([doi:10.1371/journal.ppat.1005068](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005068))
+Jones C, Utada A, Davis KR, **Thongsomboon W**, Sanchez DZ, Banakar V, Cegelski L, Wong GCL, Yildiz FH. “Cyclic-di-GMP Regulates Motile to Sessile Transition by Modulating MshA Pili Biogenesis and Near-Surface Motility Behavior in Vibrio cholerae.” PLoS Pathogens (2015), 11(10), 1–27. ([doi:10.1371/journal.ppat.1005068](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005068))
 
 **Thongsomboon W**,  Sherwood M, Arellano N, Hedrick J, Nelson A. “Thermally Induced Nanoimprinting of Biodegradable Polycarbonates Using Dynamic Covalent Cross-Links.” ACS Macro Lett.( 2013), 2, 19−22. ([doi:10.1021/mz300628s](https://pubs.acs.org/doi/10.1021/mz300628s))
 
