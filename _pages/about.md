@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Dr.Wiriya Thongsomboon
+อ.ดร.วิริยา ทองสมบูรณ์
 
 I am currently a lecturer and researcher in the Department of Chemistry at the Faculty of Science, Mahasarakham University.
 
