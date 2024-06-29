@@ -6,7 +6,7 @@ author_profile: true
 ---
 Klein AR, Basinski JJ, Niyitanga Manzi A, Cheng CC, Sanchez M, **Thongsomboon W**, and Aristilde L. "Phosphorus recycling by mineral-catalyzed ribonucleotide cleavage on iron and manganese oxides." Environmental Chemistry Letters (2024): 1-7. ([https://doi.org/10.1007/s10311-024-01754-y](https://doi.org/10.1007/s10311-024-01754-y))
 
-**Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2023), 1-10. ([doi.org/10.1007/s10800-023-02023-6](https://link.springer.com/article/10.1007/s10800-023-02023-6))
+**Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2024), 54(5), 1085–1094. ([doi.org/10.1007/s10800-023-02023-6](https://link.springer.com/article/10.1007/s10800-023-02023-6))
 
 **Thongsomboon W**, Bunyatratchata A, Vongkampang T, Nammatra R, Prakitchaiwattana C, and Siriamornpun S. "Dynamic changes in Thai-style fermented fish: Low-salt, short fermentation with autochthonous starter culture." LWT (2023), 188, 115427. ([doi.org/10.1016/j.lwt.2023.115427](https://www.sciencedirect.com/science/article/pii/S002364382301006X?via%3Dihub))
 
