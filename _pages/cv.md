@@ -66,6 +66,7 @@ Service and leadership
 
 **Outreach** (2022-present) \
 Faculty of Science, Mahasarakham University \
+June 2024	Science camp for middle school students \
 Jan 2024	11th grade students, Buakao school - lab: colligative properties \
 July 2023	Science camp for students from local high schools\
 January 2023	8th grade students, Pratai school - lab module: Chemistry reactions \
