@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Basinski JJ, Bone SE, Klein AR, **Thongsomboon W**, Mitchell V, Shukle JT, Druschel GK, Thompson A, and Aristilde L. "Unraveling iron oxides as abiotic catalysts of organic phosphorus recycling in soil and sediment matrices." Nat Commun 15, 5930 (2024). ([https://doi.org/10.1038/s41467-024-47931-z])
+Basinski JJ, Bone SE, Klein AR, **Thongsomboon W**, Mitchell V, Shukle JT, Druschel GK, Thompson A, and Aristilde L. "Unraveling iron oxides as abiotic catalysts of organic phosphorus recycling in soil and sediment matrices." Nat Commun 15, 5930 (2024). ([https://doi.org/10.1038/s41467-024-47931-z))
 
 Klein AR, Basinski JJ, Niyitanga Manzi A, Cheng CC, Sanchez M, **Thongsomboon W**, and Aristilde L. "Phosphorus recycling by mineral-catalyzed ribonucleotide cleavage on iron and manganese oxides." Environmental Chemistry Letters (2024): 1-7. ([https://doi.org/10.1007/s10311-024-01754-y](https://doi.org/10.1007/s10311-024-01754-y))
 
