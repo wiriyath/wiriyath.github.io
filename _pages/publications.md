@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Basinski JJ, Bone SE, Klein AR, **Thongsomboon W**, Mitchell V, Shukle JT, Druschel GK, Thompson A, and Aristilde L. "Unraveling iron oxides as abiotic catalysts of organic phosphorus recycling in soil and sediment matrices." Nat Commun 15, 5930 (2024). ([https://doi.org/10.1038/s41467-024-47931-z])
+
 Klein AR, Basinski JJ, Niyitanga Manzi A, Cheng CC, Sanchez M, **Thongsomboon W**, and Aristilde L. "Phosphorus recycling by mineral-catalyzed ribonucleotide cleavage on iron and manganese oxides." Environmental Chemistry Letters (2024): 1-7. ([https://doi.org/10.1007/s10311-024-01754-y](https://doi.org/10.1007/s10311-024-01754-y))
 
 **Thongsomboon W**, Sonjai J, Jakmunee J, Lerdsri J, Reanpang P, and Upan, J. "Manganese oxide@ nanocellulose modified poster paper-based electrode as a novel electrochemical sensor for sensitive determination of paraquat." Journal of Applied Electrochemistry (2024), 54(5), 1085–1094. ([doi.org/10.1007/s10800-023-02023-6](https://link.springer.com/article/10.1007/s10800-023-02023-6))
