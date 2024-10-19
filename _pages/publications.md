@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Srihanam P, Prapasri A, Janthar M, Leangtanom P, and **Thongsomboon W** (2024). "Efficient dye removal using manganese oxide-modified nanocellulosic films from sugarcane bagasse." International Journal of Biological Macromolecules (2024), 135910 (doi.org/10.1016/j.ijbiomac.2024.135910(https://doi.org/10.1016/j.ijbiomac.2024.135910))
+
 Basinski JJ, Bone SE, Klein AR, **Thongsomboon W**, Mitchell V, Shukle JT, Druschel GK, Thompson A, and Aristilde L. "Unraveling iron oxides as abiotic catalysts of organic phosphorus recycling in soil and sediment matrices." Nature Communications (2024) 15, 5930. ([doi.org/10.1038/s41467-024-47931-z](https://doi.org/10.1038/s41467-024-47931-z))
 
 Klein AR, Basinski JJ, Niyitanga Manzi A, Cheng CC, Sanchez M, **Thongsomboon W**, and Aristilde L. "Phosphorus recycling by mineral-catalyzed ribonucleotide cleavage on iron and manganese oxides." Environmental Chemistry Letters (2024): 1-7. ([doi.org/10.1007/s10311-024-01754-y](https://doi.org/10.1007/s10311-024-01754-y))
