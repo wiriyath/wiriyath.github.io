@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dr. Wiriya Thongsomboon\
-ดร.วิริยา ทองสมบูรณ์
+Assistant Professor Dr. Wiriya Thongsomboon\
+ผู้ช่วยศาสตราจารย์ ดร.วิริยา ทองสมบูรณ์
 
 I am currently a lecturer and researcher in the Department of Chemistry at the Faculty of Science, Mahasarakham University.
 
@@ -16,7 +16,7 @@ I graduated from the University of Chicago with a BS in Chemistry and pursued my
 
 After completing my PhD study, I was honored to receive the Schmidt Science Fellowship to pursue my postdoctoral research at Northwestern University, where I worked with [Professor Ludmilla Aristilde](https://aristilde.northwestern.edu/). My postdoctoral research used metabolomics and spectroscopic techniques to elucidate chemical processes, microbial pathways, and their links to environmental processes.
 
-I returned to Thailand in 2021 and started teaching at Mahasarakham University. I enjoy both teaching and research. My current research program focuses on employing chemical and biotechnological approaches to convert waste from agriculture and food systems into high-value environmentally friendly products.
+I returned to Thailand in 2021 and started teaching at Mahasarakham University. I enjoy both teaching and research. My current research program focuses on developing bio-based materials for applications in health, environment, and agriculture. 
 
 Research Interest
 ======
@@ -34,7 +34,7 @@ Thailand\
 Email: wiriya.t@msu.ac.th \
 Website: https://wiriyath.github.io 
 
-ดร.วิริยา ทองสมบูรณ์\
+ผศ.ดร.วิริยา ทองสมบูรณ์\
 ภาควิชาเคมี คณะวิทยาศาสตร์\
 มหาวิทยาลัยมหาสารคาม\
 41/20 ต.ขามเรียง อ.กันทรวิชัย \
