@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Basinski JJ, Bone SE, Aurore NM, Beni NN, Tobias FR, Sanchez M, Cheng CX, Thongsomboon W, Aristilde L. Quantitative Benchmarking of Catalytic Parameters for Enzyme-Mimetic Ribonucleotide Dephosphorylation by Iron Oxide Minerals. Environmental Science & Technology (2025): 59, 5568-5584.([doi.org/10.1021/acs.est.4c12049](https://doi.org/10.1021/acs.est.4c12049))
+Basinski JJ, Bone SE, Aurore NM, Beni NN, Tobias FR, Sanchez M, Cheng CX, **Thongsomboon W**, Aristilde L. Quantitative Benchmarking of Catalytic Parameters for Enzyme-Mimetic Ribonucleotide Dephosphorylation by Iron Oxide Minerals. Environmental Science & Technology (2025): 59, 5568-5584.([doi.org/10.1021/acs.est.4c12049](https://doi.org/10.1021/acs.est.4c12049))
 
 Srihanam P, Prapasri A, Janthar M, Leangtanom P, and **Thongsomboon W** (2024). "Efficient dye removal using manganese oxide-modified nanocellulosic films from sugarcane bagasse." International Journal of Biological Macromolecules (2024), 135910  ([doi.org/10.1016/j.ijbiomac.2024.135910](https://doi.org/10.1016/j.ijbiomac.2024.135910))
 
