@@ -1,9 +1,12 @@
----
+<img width="468" height="38" alt="image" src="https://github.com/user-attachments/assets/fd6c7421-3655-4150-bdcc-38ca49da5f2a" />---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+Taesuk N, **Thongsomboon W**, Kaeowiset P, Kaenjak H, Namsri A, Chantiratikul A, Promket D, Sangkaew M.
+Nutritional and performance effects of shrimp meal and yam bean as sustainable ingredients in laying hen diets. Animal BioScience: XXX. Just Accepted - Nov 2025
 
 Basinski JJ, Bone SE, Aurore NM, Beni NN, Tobias FR, Sanchez M, Cheng CX, **Thongsomboon W**, Aristilde L. Quantitative Benchmarking of Catalytic Parameters for Enzyme-Mimetic Ribonucleotide Dephosphorylation by Iron Oxide Minerals. Environmental Science & Technology (2025): 59, 5568-5584. ([doi.org/10.1021/acs.est.4c12049](https://doi.org/10.1021/acs.est.4c12049))
 
