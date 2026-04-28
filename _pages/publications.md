@@ -5,8 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+Chunjit J, Wannakan K., Paritmongkol W., Vongkampang T., and **Thongsomboon W***. MnO2-Modified Bacterial Cellulose as Bio-Based Coatings for Efficient Oil-Water Separation.ACS Omega (2026). ([doi.org/10.1021/acsomega.6c00408](https://pubs.acs.org/doi/10.1021/acsomega.6c00408))
+
 Taesuk N, **Thongsomboon W**, Kaeowiset P, Kaenjak H, Namsri A, Chantiratikul A, Promket D, Sangkaew M.
-Nutritional and performance effects of shrimp meal and yam bean as sustainable ingredients in laying hen diets. Animal BioScience: XXXXX. Just Accepted - Nov 2025
+Nutritional and performance effects of shrimp meal and yam bean as sustainable ingredients in laying hen diets. Animal BioScience: (2025), 39(5), 250559. ([doi.org/10.5713/ab.250559] (https://www.animbiosci.org/journal/view.php?doi=10.5713/ab.250559))
+])
+
 
 Basinski JJ, Bone SE, Aurore NM, Beni NN, Tobias FR, Sanchez M, Cheng CX, **Thongsomboon W**, Aristilde L. Quantitative Benchmarking of Catalytic Parameters for Enzyme-Mimetic Ribonucleotide Dephosphorylation by Iron Oxide Minerals. Environmental Science & Technology (2025): 59, 5568-5584. ([doi.org/10.1021/acs.est.4c12049](https://doi.org/10.1021/acs.est.4c12049))
 
