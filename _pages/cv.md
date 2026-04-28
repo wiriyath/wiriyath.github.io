@@ -18,6 +18,8 @@ Education
 
 Honors and Awards
 ======
+2025 	Selected as a representative from Thailand to attend the Young Leaders Program at STS forum 2025 - the 22nd Annual meeting, Japan
+2025	Young researcher award from Mahasarakham University, Thailand
 2023  PhD Dissertation Award from National Research Council, Thailand \
 2022	Selected as a representative from Thailand to attend the 71st Lindau Nobel Laureate Meeting, Germany \
 2021	Selected as a representative from Thailand to attend the 70th online Lindau Nobel Meeting  \
@@ -28,7 +30,7 @@ Honors and Awards
 2017    Elected as the president of Thai Student Association, Stanford University \
 2009-2013 	Dean’s List, University of Chicago \		  	 
 2012	Elected as a member of Phi Beta Kappa honors society \
-2012	Jeff Metcalf Fellowship for summer research at IBM Almaden Research Center \
+2012	Jeff Metcalf Fellowship for summer research at IBM Almaden Research Center 
 
 Research Experiences
 ======
